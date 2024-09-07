@@ -1,0 +1,51 @@
+# IntelliJ IDEA specific files
+/.idea/
+/*.iml
+/out/
+/*.ipr
+/*.iws
+
+# Ignore Gradle files
+/.gradle/
+/build/
+
+# Ignore Gradle Wrapper
+/gradle/wrapper/gradle-wrapper.properties
+/gradle/wrapper/gradle-wrapper.jar
+
+# Ignore logs and generated files
+*.log
+*.war
+*.ear
+*.jar
+*.class
+
+# Ignore OS specific files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*.swp
+.swo
+*~
+
+# Ignore Maven wrapper files (in case they're used)
+.mvn/
+/mvnw
+/mvnw.cmd
+
+# Ignore JetBrains IDE settings (IDEA, PyCharm, WebStorm, etc.)
+.idea/
+*.iws
+*.iml
+.idea_modules/
+
+# Ignore project-specific files (user-generated)
+*.env
+.env
