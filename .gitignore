@@ -8,6 +8,7 @@
 # Ignore Gradle files
 /.gradle/
 /build/
+/app/build/
 
 # Ignore Gradle Wrapper
 /gradle/wrapper/gradle-wrapper.properties
