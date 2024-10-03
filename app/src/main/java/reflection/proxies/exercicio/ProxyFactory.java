@@ -1,5 +1,7 @@
 package reflection.proxies.exercicio;
 
+import reflection.proxies.injection.exercicio.LoggingInvocationHandler;
+
 import java.lang.reflect.Proxy;
 
 public class ProxyFactory {
