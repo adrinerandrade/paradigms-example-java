@@ -1,7 +1,5 @@
 package reflection.exercicio;
 
-import reflection.annotations.CustomInjection;
-
 import java.lang.reflect.Field;
 import java.lang.reflect.Proxy;
 

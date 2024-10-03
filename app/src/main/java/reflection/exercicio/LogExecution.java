@@ -1,4 +1,4 @@
-package reflection.annotations;
+package reflection.exercicio;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

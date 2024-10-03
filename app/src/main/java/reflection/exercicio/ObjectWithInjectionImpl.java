@@ -1,8 +1,5 @@
 package reflection.exercicio;
 
-import reflection.annotations.CustomInjection;
-import reflection.annotations.LogExecution;
-
 public class ObjectWithInjectionImpl implements ObjectWithInjection {
 
     @CustomInjection
