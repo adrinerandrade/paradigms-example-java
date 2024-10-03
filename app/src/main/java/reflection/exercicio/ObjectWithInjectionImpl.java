@@ -1,4 +1,4 @@
-package reflection.proxies.injection.exercicio;
+package reflection.exercicio;
 
 import reflection.annotations.CustomInjection;
 import reflection.annotations.LogExecution;

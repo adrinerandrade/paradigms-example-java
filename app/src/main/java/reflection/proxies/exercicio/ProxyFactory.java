@@ -1,6 +1,6 @@
 package reflection.proxies.exercicio;
 
-import reflection.proxies.injection.exercicio.LoggingInvocationHandler;
+import reflection.exercicio.LoggingInvocationHandler;
 
 import java.lang.reflect.Proxy;
 

@@ -1,4 +1,4 @@
-package reflection.proxies.injection.exercicio;
+package reflection.exercicio;
 
 public interface ObjectWithInjection {
     void logMyBean();
