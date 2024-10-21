@@ -1,5 +1,6 @@
 package reflection.exercicio;
 
+@CustomComponent
 public class ObjectWithInjectionImpl implements ObjectWithInjection {
 
     @CustomInjection
